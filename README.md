@@ -2,7 +2,7 @@
 
 ## What Is This About?
 
-* The Christian Developers Network has hosted this event annually since 2006. The goal of this contest is to develop a game in a few weeks based on a Christian theological or Bible verse theme. Go to this page to learn about the [Contest Rules and Details](https://github.com/CDNSpeedgame/2017/wiki/2017-CDN-Speed-Game-Contest).
+* The Christian Developers Network has hosted this event annually since 2006. The goal of this contest is to develop a game in a few weeks based on a Christian theological or Bible verse theme. Go to this page to learn about the [Contest Rules and Details](https://github.com/CDNSpeedgames/2017/wiki/2017-CDN-Speed-Game-Contest).
 
 ## GitHub Instructions
 
