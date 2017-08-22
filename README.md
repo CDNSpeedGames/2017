@@ -2,7 +2,7 @@
 
 ## What Is This About?
 
-* The Christian Developers Network has hosted this event annually since 2006. The goal of this contest is to develop a game in a few weeks based on a Christian theological or Bible verse theme. Go to this page to learn about the [Contest Rules and Details](https://github.com/CDNSpeedgames/2017/wiki/2017-CDN-Speed-Game-Contest).
+* The Christian Developers Network has hosted this event annually since 2006. The goal of this contest is to develop a game in a few weeks based on a Christian theological or Bible verse theme. Go to this page to learn about the [Contest Rules and Details](https://github.com/CDNSpeedgame/2017/wiki/2017-CDN-Speed-Game-Contest).
 
 ## GitHub Instructions
 
@@ -34,7 +34,7 @@
 
 ##### Folder Structure and Files
 
-* Once you have obtained access to this repository, please make a new folder under the **source** folder to store your code. Replace [MyGame] with the folder name for your game. Here is an example of the comand to run in the Bash console.
+* Once you have obtained access to this repository, please make a new folder under the **games** folder to store your code. Replace [MyGame] with the folder name for your game. Here is an example of the comand to run in the Bash console.
 <pre>
 	Windows
 	mkdir -p /c/CDNSpeedGame/games/[MyGame]
